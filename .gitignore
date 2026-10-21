@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/contracts/
+/contracts/**
+!/contracts/**/
+!/contracts/**/*.sol
